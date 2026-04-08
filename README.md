@@ -17,3 +17,6 @@ py -m venv <YOUR venv name>
 ```
 pip install -r reqs.txt
 ```
+
+## Demo
+https://youtu.be/Mq0MJ6NHgmM?si=iLbbFhVVRXGBLl-S
